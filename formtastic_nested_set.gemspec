@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version     = "0.1"
   s.authors     = ["izzm"]
   s.email       = ["vladislav.izoria@gmail.com"]
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Formtastic nested set plugin}
+  s.description = %q{Render tree in select input from nested_set model}
   s.rdoc_options = ["--charset=UTF-8"]
 
   s.files = [
